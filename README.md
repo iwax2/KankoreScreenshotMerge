@@ -5,14 +5,14 @@
 
 ## 概要
 1. IrfanViewをインストール
-* "kankore_merge.bat" の3行目に実行ファイルをフルパスで記述
+* `kankore_merge.bat` の3行目にIrfanViewの実行ファイルをフルパスで記述
 * 改装画面、もしくは編成画面で詳細を押した状態でスクリーンショットをとる
 * ファイル6つをbatファイルにD&D
 
 ## インストール
 IrfanView http://www.irfanview.com/ を使います。
 ダウンロードして適当なフォルダにインストールしてください。
-で、batファイル "kankore_merge.bat" の3行目にi_view32.exeの実行ファイルをフルパスで記述してください。
+で、batファイル `kankore_merge.bat` の3行目に `i_view32.exe` の実行ファイルをフルパスで記述してください。
 64bitでも動くと思いますが、ノーテストです。
 
 ## 使い方
@@ -24,7 +24,7 @@ IrfanView http://www.irfanview.com/ を使います。
 （阿武隈は改二になって便利すぎる子に育ってしまったので、そこら中で見るようなりましたね。嬉しいような寂しいような）
 
 で、6隻のスクリーンショットが取れたら6つのファイルができあがると思いますので、
-それを6つとも選択してbatファイルにD&Dすれば KanColleMerge_HHMMSS.png というファイル名ができあがると思います。
+それを6つとも選択して`kankore_merge.bat`にD&Dすれば KanColleMerge_HHMMSS.png というファイル名ができあがると思います。
 
 ![朝霜が実装されません](KanColleMerge_230541.png)
 
